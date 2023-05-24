@@ -1,7 +1,15 @@
 * {background-color: rgb(255, 218, 97)}
-header {
+.container > a {
+    padding: 10px;
     text-align: center;
-    word-spacing: 3px;
+    font-size: 20px;
+    color: #000000;
+    flex: 1;
+  }
+
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
 }
 
 h1, .motto {
