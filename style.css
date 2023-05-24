@@ -27,3 +27,13 @@ h1 {
 div {
     text-align: center;
 }
+.showcase > a {
+    border: 5px solid #a8863d;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.showcase {
+    display: flex;
+}
